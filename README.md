@@ -1,4 +1,4 @@
-# flask-microblog
+# flask-microblog descrição
 
 O propósito deste repositório é seguir o tutorial:
 
